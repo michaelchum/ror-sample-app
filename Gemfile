@@ -8,6 +8,7 @@ group :development, :test do
   gem 'sqlite3', '1.3.9'
   gem 'rspec-rails', '2.14.2'
   gem 'spring'
+  gem 'spork-rails', '~> 4.0.0'
 end
 
 group :test do
